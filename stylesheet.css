@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>マッスル特設サイト</title>
+    <link rel="stylesheet" href="stylesheet.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  </head>
+  <body>
+    <header>
+      <h1 class="title">マッスル"Shun"の伝説</h1>
+    </header>
+    <div class=main>
+      <h2>略歴</h2>
+      <div class=history>
+        <p>1999年<br>204kgで出生。</p>
+        <p>2002年<br>　3004kgダンベルを購入。</p>
+        <p>2005年<br>　上腕二頭筋の大きさが富士山を超える。</p>
+        <p>2010年<br>　国民的バンド「PUMP UP MUSCLE」<br>に感銘を受け、音楽と筋肉の共存を目指す。</p>
+        <p>2013年<br>　ソロアルバム「Power＆love」がBillboard一位を獲得。マッスルグラミー賞を受賞</p>
+        <p>2014年<br>　木下にゃにゃと自社ジムにて出会う。</p>
+        <p>2023年<br>　木下にゃにゃと入籍。結婚式には1000人もの友人ボディービルダーが終結。</p>
+        <p class=ai>3970年　AI暴走による戦争にて、子供をミサイル50発から守り死亡。<p>
+      </div>
+      <div class=img>
+        <h2>七歳時の肉体</h2>
+        <img src=https://s1.1zoom.me/b5050/309/Men_Black_background_Human_back_Muscle_515078_1920x1080.jpg>
+      </div>
+      <div class=thought>
+        <h2>思想</h2>
+        <p>医学、心理学、芸術　etc...<br>あらゆる分野のスペシャリストであった<br>Shunの行動は
+          どれも筋肉学に基づいており、<br>幼少期から学んでいた
+          ダンベル理論に<br>多大な影響を受けていると考えられる。
+        </p>
+      </div>
+    </div>
+    <footer>
+      <a href="https://twitter.com/shunshunshu123">
+        <span class="fa fa-twitter"></span>
+      </a>
+      <p>thank you for reading</P>
+      <p>muscle forever...</p>
+    </footer>
+  </body>
+</html>
